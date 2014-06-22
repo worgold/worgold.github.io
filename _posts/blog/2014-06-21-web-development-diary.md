@@ -13,10 +13,10 @@ category: blog
 
 +	添加PHP gd库
 
-	*	昨天搭建博客网站，配置本地环境时，一不小心，将PHP的gd库给删掉了。导致今天登录本地后台时，图片验证码刷不出来
-	*	各种百度、google
-	*	重新安装gd库即可解决
-	*	sudo apt-get install php5-gd
+	>*	昨天搭建博客网站，配置本地环境时，一不小心，将PHP的gd库给删掉了。导致今天登录本地后台时，图片验证码刷不出来
+	>*	各种百度、google
+	>*	重新安装gd库即可解决
+	>*	执行：`sudo apt-get install php5-gd`
 
 +	修改后台网站管理员
 
