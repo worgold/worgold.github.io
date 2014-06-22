@@ -9,9 +9,9 @@ category: note
 
 ## 搭建网站
 以下是搭建网站使用的工具：
-* GitHub Pages
-* Jekyll
-* [建站教程][1]
+*	 GitHub Pages
+*	 Jekyll
+*	 [建站教程][1]
 
 ## 感谢
 本博客模板是@beiyuu提供的，他的这种分享的精神值得我们学习。
