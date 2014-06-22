@@ -18,6 +18,13 @@ category: blog
 	3.	重新安装gd库即可解决
 	4.	执行：`sudo apt-get install php5-gd`
 
++	修复自动更新汇率、备份数据库异常
+
+	*	异常原因：绑定了主机头，导致使用IP地址访问不了主机
+	*	解决方案：将使用IP地址访问改成使用域名访问
+	*	原crontab命令：`10 13 * * * wget -p /home/worgold/wget/ 127.0.0.1/diary.php`
+	*	新crontab命令：`10 13 * * * wget -p /home/worgold/wget/ domain.com/diary.php`
+
 +	修改后台网站管理员
 
 	1.	点击“是否可用”列，更改管理员的可用状态，只有超级管理员具有此权限
