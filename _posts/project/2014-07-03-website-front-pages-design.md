@@ -6,7 +6,9 @@ category: project
 ---
 
 ##	信息提示页面
+
 ##	用户信息
+
 *	用户基本资料
 	+	用户名
 	+	用户邮箱
@@ -16,8 +18,11 @@ category: project
 	+	会员等级
 *	我的订单
 *	修改密码
+
 ##	FQA页面
+
 ##	游戏页面
+
 *	游戏信息
 	+	游戏名
 	+	游戏图片
@@ -36,7 +41,9 @@ category: project
 	+	提示四
 	+	提示五
 	+	提示六
+
 ##	前台页面
+
 *	FQA页面
 *	游戏页面
 	+	游戏信息
@@ -181,7 +188,9 @@ category: project
 	+	编码:UTF-8
 	+	ThinkPHP 
 	+	英文
+
 ##	订单信息采集页面
+
 *	订单信息
 	+	游戏
 	+	区服
@@ -202,7 +211,9 @@ category: project
 *	留言
 	+	rextarea
 *	提交
+
 ##	注册页面
+
 *	邮箱
 *	姓
 *	名
@@ -212,7 +223,9 @@ category: project
 *	验证码
 *	注册按钮
 *	登录链接
+
 ##	首页
+
 *	页首（模块）
 	+	LOGO图片
 		-	248x100
@@ -278,7 +291,9 @@ category: project
 		-	PAYPAL
 		-	SKRILL
 	+	版权信息
+
 ##	登录页面
+
 *	用户名
 *	密码
 *	登录按钮
