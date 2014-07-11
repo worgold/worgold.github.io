@@ -50,7 +50,7 @@ category: blog
 	*	已发布需求，悬赏￥1000
 	*	等待服务商来
 
-![需求信息](/images/_posts/require.jpg)
+![需求信息](/images/posts/require.jpg)
 
 +	部署项目目录
 +	编写前台逻辑代码
