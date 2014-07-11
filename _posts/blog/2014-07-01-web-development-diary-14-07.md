@@ -50,7 +50,7 @@ category: blog
 	*	已发布需求，悬赏￥1000
 	*	等待服务商来
 
-![需求信息](/images/posts/require.jpg)
+![需求信息](/images/posts/require.jpg "需求报告")
 
 +	部署项目目录
 +	编写前台逻辑代码
@@ -67,4 +67,4 @@ category: blog
 
 ##	2014-07-11	多云	35 ~ 26℃
 
-+	
++	修改英文版本的一些翻译错误	
