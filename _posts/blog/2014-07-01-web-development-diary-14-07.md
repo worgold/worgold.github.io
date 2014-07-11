@@ -49,7 +49,7 @@ category: blog
 	*	今天下午已经通过验证
 	*	已发布需求，悬赏￥1000
 	*	等待服务商来
-	*	![需求信息]{/images/_posts/front-require.jpg}
+![需求信息]{/images/_posts/front-require.jpg}
 
 +	部署项目目录
 +	编写前台逻辑代码
