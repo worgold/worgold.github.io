@@ -45,7 +45,7 @@ PAYPAL 专门为开发者提供了一个与真实环境完全一样的测试环�
 
 ##	附：参考代码
 
-*	首页 index.html
+####	首页 index.html
 
 	<html>
 		<head>
@@ -135,7 +135,7 @@ PAYPAL 专门为开发者提供了一个与真实环境完全一样的测试环�
 		</body>
 	</html>
 
-*	参数配置	paypal.conf.php
+####	参数配置	paypal.conf.php
 
 	<?php
 	/*
@@ -179,7 +179,7 @@ PAYPAL 专门为开发者提供了一个与真实环境完全一样的测试环�
 	define('ACK_SUCCESS', 'SUCCESS');
 	define('ACK_SUCCESS_WITH_WARNING', 'SUCCESSWITHWARNING');
 
-*	系统调用	paypal.call.php
+####	系统调用	paypal.call.php
 
 	<?php
 	/*
@@ -285,7 +285,7 @@ PAYPAL 专门为开发者提供了一个与真实环境完全一样的测试环�
 		return $nvpArray;
 	}
 
-*	主要逻辑	expressCheckout.php
+####	主要逻辑	expressCheckout.php
 
 	<?php
 	/*
